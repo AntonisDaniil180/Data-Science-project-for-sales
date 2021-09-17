@@ -1,1 +1,1 @@
-A simple Data Science project were I analyse some data and I use seaborn for visualisation.
+A  Data Science project were I analyse sales data and I use seaborn for visualisation.
